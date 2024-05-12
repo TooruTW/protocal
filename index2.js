@@ -199,7 +199,7 @@ const axyPrepBloodGenomicDNAMiniprepKit = [
 
 let arrary = axyPrepBloodGenomicDNAMiniprepKit;
 let protocalName = "DNA萃取 Axy Prep Blood Genomic";
-let currentStep = 3;
+let currentStep = 0;
 let reactionTime = 0;
 //view
 let object = {
